@@ -3,7 +3,7 @@ packageName: client
 packageVersion: 1.0.0
 gitHost: github.com
 gitUserId: kebroad
-gitRepoId: schwab-accounts-and-trading-production-go
+gitRepoId: schwab-market-data-production-go
 additionalProperties:
   generateInterfaces: false
   enumClassPrefix: true

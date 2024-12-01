@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -137,11 +136,4 @@ model_screener.go
 model_settlement_type.go
 model_underlying.go
 response.go
-test/api_instruments_test.go
-test/api_market_hours_test.go
-test/api_movers_test.go
-test/api_option_chains_test.go
-test/api_option_expiration_chain_test.go
-test/api_price_history_test.go
-test/api_quotes_test.go
 utils.go

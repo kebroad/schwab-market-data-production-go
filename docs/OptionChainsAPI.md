@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"os"
     "time"
-	openapiclient "github.com/kebroad/schwab-accounts-and-trading-production-go"
+	openapiclient "github.com/kebroad/schwab-market-data-production-go"
 )
 
 func main() {

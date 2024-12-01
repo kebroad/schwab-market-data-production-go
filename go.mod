@@ -1,8 +1,9 @@
-module github.com/kebroad/schwab-accounts-and-trading-production-go
+module github.com/kebroad/schwab-market-data-production-go
 
 go 1.18
 
 require (
+	github.com/kebroad/schwab-accounts-and-trading-production-go v1.0.0
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/oauth2 v0.0.0-20210323180902-22b0adad7558
 	gopkg.in/validator.v2 v2.0.1

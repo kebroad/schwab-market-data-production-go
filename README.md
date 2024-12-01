@@ -23,7 +23,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import client "github.com/kebroad/schwab-accounts-and-trading-production-go"
+import client "github.com/kebroad/schwab-market-data-production-go"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:
